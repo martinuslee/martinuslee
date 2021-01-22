@@ -31,7 +31,7 @@ I'm Jongheon Lee, a junior developer. 🌱 <br>
 <h3 align="center">•••</h3>
 
 <p align="center" align="right">
-  <a target="_blank" target="_blank"href="https://instagram.com/bornin4march"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" target="_blank"href="https://instagram.com/bornin4march"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:supreme034@korea.ac.kr?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
@@ -40,11 +40,13 @@ I'm Jongheon Lee, a junior developer. 🌱 <br>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
 
-<!--
-**martinuslee/martinuslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![JongheonLee's github stats](https://github-readme-stats.vercel.app/api?username=martinuslee&show_icons=true&theme=dracula)](https://github.com/martinuslee/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinuslee&layout=compact&theme=dracula)](https://github.com/martinuslee)
+<!--
+**martinuslee/martinuslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
