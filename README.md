@@ -2,7 +2,7 @@
 
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
-I'm HaDong Lee, a junior developer. 🌱 <br>
+I'm Jongheon Lee, a junior developer. 🌱 <br>
 </p>
 
 <h3 align="center">✨ Tech Stack ✨ </h3>
