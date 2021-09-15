@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&animation=fadeIn&section=header&text=Jongheon%20Lee&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&animation=fadeIn&section=header&text=Jongheon%20Lee&fontSize=90) -->
 
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
@@ -38,7 +38,7 @@ I'm Jongheon Lee, a junior developer. 🌱 <br>
   <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmetleeha%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90) -->
 
 
 [![JongheonLee's github stats](https://github-readme-stats.vercel.app/api?username=martinuslee&show_icons=true&theme=dracula)](https://github.com/martinuslee/github-readme-stats)
