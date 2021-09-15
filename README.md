@@ -43,8 +43,8 @@ I'm Jongheon Lee, a junior developer. 🌱 <br>
 <!-- ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90) -->
 
 
-[![JongheonLee's github stats](https://github-readme-stats.vercel.app/api?username=martinuslee&show_icons=true&theme=dracula)](https://github.com/martinuslee/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinuslee&layout=compact&theme=dracula)](https://github.com/martinuslee)
+[![JongheonLee's github stats](https://github-readme-stats.vercel.app/api?username=martinuslee&show_icons=true&theme=flag-india)](https://github.com/martinuslee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinuslee&layout=compact&theme=flag-india)](https://github.com/martinuslee)
 <!--
 **martinuslee/martinuslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
