@@ -3,7 +3,7 @@
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
 I'm Jongheon Lee, a junior developer. 🌱 <br>
-Interests : Bioinformatics, Data Science, Machine Learning, Data Engineering, Web Full Stack Development.
+Bioinformatics, Data Science, Machine Learning, Data Engineering, Web Development.
 </p>
 
 <h3 align="center">✨ Tech Stack ✨ </h3>
