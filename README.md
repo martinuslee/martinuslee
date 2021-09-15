@@ -18,9 +18,9 @@ I'm Jongheon Lee, a junior developer. 🌱 <br>
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Flask%20-%2320232a.svg?&style=flat-square&logo=flask&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Flask%20-%2320232a.svg?&style=flat-square&logo=flask&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
