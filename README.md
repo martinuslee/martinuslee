@@ -2,7 +2,8 @@
 
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
-I'm Jongheon Lee, a junior developer. 🌱 <br>
+I'm Jongheon Lee, a junior developer. 🌱 
+Working for CJ Cheiljedang BIO R&D <br>
 Bioinformatics, Data Science, Machine Learning, Data Engineering, Web Development.
 </p>
 
