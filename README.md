@@ -4,7 +4,7 @@
 <p align="center">
 I'm Jongheon Lee, a junior developer. 🌱 <br>
 BS. Computer Science (Korea University)<br>
-Working for CJ Cheiljedang BIO R&D <br>
+  Working for <b>CJ Cheiljedang BIO R&D</b> <br>
 Bioinformatics, Data Science, Machine Learning, Data Engineering, Web Development.
 </p>
 
