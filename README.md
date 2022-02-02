@@ -3,8 +3,8 @@
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
 I'm Jongheon Lee, a junior developer.(BIO IT Development Researcher) 🌱 <br>
-BS. Computer Science (Korea University Sejong Campus)<br></p>
-  Working for <b>CJ Cheiljedang BIO R&D</b> <br>
+BS. Computer Science (Korea University Sejong Campus)<br>
+  Working for <b>CJ Cheiljedang BIO R&D</b> <br></p>
 <h3 align="center"> Interests </h3>
 <p align="center">
 Bioinformatics, Data Science, Machine Learning, Data Engineering, Web Development.
