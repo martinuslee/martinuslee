@@ -3,7 +3,7 @@
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
 I'm Jongheon Lee, a junior developer.(BIO IT Development Researcher) 🌱 <br>
-BS. Computer Science (Korea univ.)<br>
+BS. Computer Science<br>
   Working for <b>CJ Cheiljedang BIO R&D</b> <br></p>
 <h3 align="center"> 🧗 Interests </h3>
 <p align="center">
