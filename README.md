@@ -35,24 +35,6 @@ Bioinformatics, Data Science, Machine Learning, Data Engineering, Web Developmen
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">&nbsp;&nbsp;
 </p>
 
-<h3 align="center">•••</h3>
-
-<p align="center" align="right">
-  <a target="_blank" target="_blank"href="https://instagram.com/bornin4march"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="mailto:supreme034@korea.ac.kr?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-<p align="center">
-  <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmetleeha%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
-</p>
-
-<!-- ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90) -->
-
-<div align=center>
-  
-[![Jongheon's github stats](https://github-readme-stats.vercel.app/api?username=martinuslee&show_icons=true&theme=Gradient)](https://github.com/martinuslee/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinuslee&layout=compact&theme=Gradient)](https://github.com/martinuslee)
-
-</div>
 <!--
 **martinuslee/martinuslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
